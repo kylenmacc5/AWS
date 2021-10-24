@@ -121,5 +121,3 @@ def ccchecker(cc):
 		print cc, "| Die"
 
 BinChecker()
-
-print '\nIf there is no Live BINs try once again by increasing the number of Card needed'
